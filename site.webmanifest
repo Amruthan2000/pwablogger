@@ -3,13 +3,13 @@
     "short_name": "Life of Mechon",
     "icons": [
         {
-            "src": "https://1.bp.blogspot.com/-d0C_O0mrXeY/YLQVHUEqGnI/AAAAAAAAx7k/tJ3KDbg9WKEkRCMqJwrkYUFpziIYR1wGgCLcBGAsYHQ/s0/android-chrome-192x192.png",
+            "src": "https://1.bp.blogspot.com/-5dTZVd7ZLus/YOxPvcylFCI/AAAAAAAACtU/BrLu-F9NRu0B4YlZX0_u3fMqGiB0du4XQCLcBGAsYHQ/s192/android-chrome-192x192.png",
             "sizes": "192x192",
             "type": "image/png",
             "purpose": "any maskable"
         },
         {
-            "src": "https://1.bp.blogspot.com/-WnA3PC1IzNs/YLQVHTwbu_I/AAAAAAAAx7s/2JmVQL0QGekRlnCa4bzjKhWXOQNMXcLWQCLcBGAsYHQ/s16000/android-chrome-512x512.png",
+            "src": "https://1.bp.blogspot.com/-3DWTsbzHASQ/YOxPv8nkb3I/AAAAAAAACtY/5PqJCKeAoyMU_AbS3t6El4-0pK-B0Nw2wCLcBGAsYHQ/s320/android-chrome-512x512.png",
             "sizes": "512x512",
             "type": "image/png",
             "purpose": "any maskable"
