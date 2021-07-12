@@ -1,19 +1,32 @@
- {
-    "name": "Life of Mechon",
-    "short_name": "Life of Mechon",
-    "icons": [
-        
-        {
-            "src": "https://1.bp.blogspot.com/-VAXuzAf0mk8/YOxzqcLBBiI/AAAAAAAACuc/jiMnGKg2lWANxvR18fM0aUx29Fikkm9jACLcBGAsYHQ/s0/2_objects.png",
-            "sizes": "512x512",
-            "type": "image/png",
-            "purpose": "any maskable"
-        }
-    ],
-    "theme_color": "#ffffff",
+{
+    "theme_color": "#000000",
     "background_color": "#ffffff",
-    
     "display": "standalone",
-    "prefer_related_applications": false,
-  "start_url": "https://www.lifeofmechon.xyz"
+    "scope": "/",
+    "start_url": "https://www.lifeofmechon.xyz",
+    "name": "Life of mechon",
+    "short_name": "LOM",
+    "description": "Mechanical Engineer as Dev",
+    "icons": [
+        {
+            "src": "/icon-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/icon-256x256.png",
+            "sizes": "256x256",
+            "type": "image/png"
+        },
+        {
+            "src": "/icon-384x384.png",
+            "sizes": "384x384",
+            "type": "image/png"
+        },
+        {
+            "src": "/icon-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
 }
